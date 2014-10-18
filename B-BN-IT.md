@@ -68,7 +68,8 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
 ###ToDo aktuell
 ------
 - Arbeitsserver
-    - Übungen, Infos, interne Kommunikation, Mail, Kontakt und off. Landingpage
+    - Übungen, Infos, interne Kommunikation, Mail, Kontakt und 
+	- off. Landingpage
 
 - Liste ben. Dinge zusammenstellen, wie viel Ministartcash und welche Dinge, gibt es HW-'Combo' ?
 
