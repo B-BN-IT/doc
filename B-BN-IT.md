@@ -7,34 +7,38 @@ _Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, .._
     * 100% legal und 'feel-good'
     * "grünes" Handeln vorziehen: nachhaltig, fair, effizient (keine Politik)
 
+- Firmenfarben grün, blau, rosa/pink, Logo folgt
+- IT-Consulting und Spezial-Hardware-Entwicklung und -Verkauf, PC / Mac - Verkauf, Services, Coaching
+- [www.bnnm-pc.de](www.bnnm-pc.de) | www.bnnm-mac.de | [www.b-bn-it.de](www.b-bn-it.de) | www.b-bn-av.de, (b-bn-it.gmbh, b-bn.holding)
+
 -&gt; top-ausgebildet und vernetztet -&gt; flexibel im Workflow, treu bei den Werten -&gt; sozial, offen und diskrim. frei -&gt; erfahren und günstig (Marketing: siehe fllex. Tarfie am Anfang / bei geringer Auslastung)
 
 -&gt; Zwei Tarife: IT-Spezialist und (Dipl.-)Inf.
 
--&gt; Fünf Bereiche  / 2 Sparten (IT und AV):
+-&gt; Fünf Bereiche  / 2 Sparten (IT und AV): +retail?
 
-- Firmenfarben grün, blau, rosa/pink, Logo folgt
-- [www.bnnm-pc.de](www.bnnm-pc.de) | www.bnnm-mac.de | [www.b-bn-it.de](www.b-bn-it.de) | www.b-bn-av.de, (b-bn-it.gmbh, b-bn.holding)
-- IT-Consulting und Spezial-Hardware-Entwicklung und -Verkauf, PC / Mac - Verkauf, Services
 
 Start: 1. November 2014
 
 **Ziel: Gründung B-BN-IT GmbH **
 
-    - Zweitsitz oder -Office / -Laden / in Berlin, vorerst 'Meetingraum, gepfl. Bureau' bei mir) 
-    - mögl. BN verbundene  Mitstreiter suchen (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) mit Fähigkeiten, Wollen, Handeln oder Wissen. (Keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, Ausnahme Fascho (wenn Wohnsitz West)))
+    - Zweitsitz oder -Office / -Laden / in Berlin, 
+    	- vorerst 'Meetingraum, gepfl. Bureau' bei mir) 
+    - mögl. BN/IT verbundene  Mitstreiter suchen 
+    	- (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) mit Fähigkeiten, Wollen, Handeln oder Wissen. 
+    	- selbstv. keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, Ausnahme Fascho (wenn Wohnsitz West)
 
-###Mitstreiter / Staff / Gründungsmitglieder 
+###Crew / Mitstreiter / Staff / Gründungsmitglieder 
 -----------------------------------------
-Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (später? Security)
+Marcus Geller, IT-Spezialst, ()-Kaufmann, Systemadministrator, Kundenberater, (später? Security)
 
 - eigener, neuer, großer Schreibtisch, mit schnellem PC / Mac und Displays und Telefon
-- Schreibtisch ist 'Privatsphäre' / kein 'clean-desk'
+  - Schreibtisch ist 'Privatsphäre' / kein 'clean-desk'
 - Firmen-PC / -Mac und Smartphone
-- kleine Bibliothek, Bad/WC, Küche / Getränke, Sat-TV / Internet / Telefon
+- kleine Fachbibliothek, Bad/WC, Küche / Getränke, Sat-TV / Internet / Telefon
 - Firmen-VPN und -Server, Cloud (cloud.b-bn-it.de, www.b-bn-ux.de,  [später b-bn-it.gmbh] )
-- Grafikworkstation, Austellhardware, 'Werkstatt/Labor'
-- wöchentlich, gemeinsam 1-2x Reinigung, mitbringen v. Tieren ok
+- Grafikworkstation von mir, Austellhardware, 'Werkstatt/Labor'
+- wöchentlich, gemeinsam 1-2x Reinigung, Mitbringen v. Tieren ok
 - Hardware zu Händler-Einkaufspreisen und verrechenbar, teilweise günstiger
 - Spesenabrechnung, z.B. Privat-PKW
 - eigene Arbeit (Jobsuche, Intego/Sinaso/Digeti-Termine, eigene Projekte) willkommen
@@ -60,7 +64,6 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
 - Drohnen: geil
 - gute Hardware Retailen
 - Services anbieten und Resellen
-
 - Shop (Online / real? future?), Lager (Mini)
 
 - Möglichkeit zum Ausgleich andere Tätigkeiten anzubieten und anzunehmen. Gerne im Team.
