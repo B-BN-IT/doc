@@ -9,9 +9,9 @@ _Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, .._
 
 -&gt; top-ausgebildet und vernetztet -&gt; flexibel im Workflow, treu bei den Werten -&gt; sozial, offen und diskrim. frei -&gt; erfahren und günstig (Marketing: siehe fllex. Tarfie am Anfang / bei geringer Auslastung)
 
--&gt; Zwei Tarife: Facharbeiter / IT-Spezialist und Informatik-Profi
+-&gt; Zwei Tarife: IT-Spezialist und (Dipl.-)Inf.
 
--&gt; Fünf Bereiche  / 2 Sparten:
+-&gt; Fünf Bereiche  / 2 Sparten (IT und AV):
 
 - Firmenfarben grün, blau, rosa/pink, Logo folgt
 - [www.bnnm-pc.de](www.bnnm-pc.de) | www.bnnm-mac.de | [www.b-bn-it.de](www.b-bn-it.de) | www.b-bn-av.de, (b-bn-it.gmbh, b-bn.holding)
