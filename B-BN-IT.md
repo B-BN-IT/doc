@@ -46,8 +46,11 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
   - transparente Buchhaltung, Beteiligung am Gewinn, klare Strategie
   - (später: Möglichkeit Anteile zu kaufen oder Partner zu werden)
   - Making history, (später) Mögl. in Bad Nauheim oder Berlin zu arbeiten (je nach Projekt / Bereich)
+  - Zeugnisse, Zertifikate, Fortbildung, Praxis
 
 - Research & Development
+- Softwareentwicklung
+- Drohnwn: geil
 - Möglichkeit zum Ausgleich andere Tätigkeiten anzubieten und anzunehmen. Gerne im Team.
     - Beispiel Basti - jetzt zusagen
 - schicke Visitenkarte, kein Stress mit JC
