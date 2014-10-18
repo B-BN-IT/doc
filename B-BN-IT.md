@@ -50,15 +50,22 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
   - (später:) Zertifikate, Fortbildung, Praxis
 
 - Research & Development
-  - Brainwork, Disziplin und Effizienz, 
-  - hochqualifiziert, sauber und kann finanziell lohnen
+  - Brainwork, Disziplin und Effizienz, zielorientiert, keiner hilft
+  - hochqualifiziert, sauber, kreativ, kommunikativ
+  - bockt
+  - kann finanziell lohnen
+
 - Softwareentwicklung
+  - ..
 - Drohnen: geil
 - gute Hardware Retailen
 - Services anbieten und Resellen
+
 - Shop (Online / real? future?), Lager (Mini)
+
 - Möglichkeit zum Ausgleich andere Tätigkeiten anzubieten und anzunehmen. Gerne im Team.
     - Beispiel Basti - jetzt zusagen
+    
 - schicke Visitenkarte, kein Stress mit JC
 
         - kein Einsatz von Eigenkapital als Lohn (Ausnahme: Arbeitsgeräte), alles muss verdient werden
