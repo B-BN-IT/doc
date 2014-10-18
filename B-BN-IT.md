@@ -32,11 +32,9 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
 - Schreibtisch ist 'Privatsphäre' / kein 'clean-desk'
 - Firmen-PC / -Mac und Smartphone
 - kleine Bibliothek, Bad/WC, Küche / Getränke, Sat-TV / Internet / Telefon
-
 - Firmen-VPN und -Server, Cloud (cloud.b-bn-it.de, www.b-bn-ux.de,  [später b-bn-it.gmbh] )
 - Grafikworkstation, Austellhardware, 'Werkstatt/Labor'
 - wöchentlich, gemeinsam 1-2x Reinigung, mitbringen v. Tieren ok
-
 - Hardware zu Händler-Einkaufspreisen und verrechenbar, teilweise günstiger
 - Spesenabrechnung, z.B. Privat-PKW
 - eigene Arbeit (Jobsuche, Intego/Sinaso/Digeti-Termine, eigene Projekte) willkommen
@@ -45,9 +43,10 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
     - Das Bureau muss zu jederzeit so aussehen, dass spontan Kunden vorbeikommen können (Termin)
 - Absprache, ob 4 oder 6 Präsenzstunden (2x 2 Std. plus Mittag oder frei Zeiteinteilung mit 1x Besprechung tgl.)
 
-- transparente Buchhaltung, Beteiligung am Gewinn, klare Strategie
-- (später: Möglichkeit Anteile zu kaufen oder Partner zu werden)
-- Making history, (später) Mögl. in Bad Nauheim oder Berlin zu arbeiten (je nach Projekt / Bereich)
+  - transparente Buchhaltung, Beteiligung am Gewinn, klare Strategie
+  - (später: Möglichkeit Anteile zu kaufen oder Partner zu werden)
+  - Making history, (später) Mögl. in Bad Nauheim oder Berlin zu arbeiten (je nach Projekt / Bereich)
+
 - Research & Development
 - Möglichkeit zum Ausgleich andere Tätigkeiten anzubieten und anzunehmen. Gerne im Team.
     - Beispiel Basti - jetzt zusagen
