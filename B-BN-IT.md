@@ -175,7 +175,7 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
 
 ### Seite / WWW
 
-- Kundenlogin / Mitarbeiter-Login
+- Kundenlogin / Mitarbeiter-Login (gute DJANGO Ue, sonst ich)
 - News
 - Cloud
 - Anleitungen und Hardware
@@ -184,20 +184,44 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
 
 ###SPARTEN / ANGEBOT / SERVICES / R&D
 
-**Bereiche**: PM erfahren / "zu allozieren":
+**Bereiche**: 
+PM erfahren / "zu allozieren":
 
 - grün dunkel/hell (Fachmann / IT-Spez.)
 - blau (dunkel /hell) (Dipl.-Inf.)
-- rosa/pink (Firma) (R&D, Frauen, Jobs, 'Schnack' / Termin, 
-    - Ziele / Werte (modern nr, Verantwortung, unsere Arbeitsweise, soz. angbeot/ver.)
+- rosa/pink (Firma) (R&D, Equalpay etc, Jobs, 'Schnack' / Termin, 
+    - Ziele / Werte (modern nr, Verantwortung / Arbeitsweise, soz. angbeot/ver./gesund.)
+
+####**B-BN-IT**
+Dachfirma, IT-Consulting & -Services, 
+- Web- Mobile- und Desktopentwicklung, 
+- Auftragsshops, eigener (eBay-) Shop mit geilem Equipment
+- Auftragsapps und kleine Web-Seiten / Blogs
+- Softwareentwicklung professionell 1-...? Personenteams
+- ..
 
 ####**B-BN-UX**
-
+Hosting, Reseller, Services
 - Cloud, Hosting, Unix-Services
 - DNS und Domains
+- Kundenservice Hosting und Backup und Cloud-Produkte
+- ..
 
 ####**B-BN-AV**
-...
+B-BN AudioVideo Aviation
+- Crazy Drohnen Kram News, Retail, Demo & Kurse, Service
+- FPV legale Situation klären,sonst ausgliedern
+- Mini-PCs, WLAN-Cams, iPhone-Tuning
+- ..
+
+####**BNNM-PC / BNNM-MAC**
+Spezial-Hardware-Entwwicklung und Retail, Mac-Verkauf
+- nur gute angepasste und wartbare Qualihardware 
+- Hardware Tuner/Modder/Retailer
+  - Beispiel Rasperry / Linksys modden.. Ideen?
+- Authorized Apple Reseller (Markt gut hier glaube ich)
+  - Service dazu (== keine Freizeit mehr zum Geldausgeben ;)
+  - ...
 
 <hr/>
 
