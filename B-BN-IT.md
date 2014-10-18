@@ -1,16 +1,11 @@
-**B-BN-IT**
+#B-BN-IT
+_Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, .._
 
-Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, ..
-
-* Wir sind uns für nichts zu schade 
-
-* Bei Bedarf top-gestylt, pünktlich und verlässlich ("professionell")
-
-* Kein Sexismus. Frauen sind bei uns als Profis und Laien, Kunden und Kollegen hoch geschätzt und willkommen
-
-* 100% legal und 'feel-good'
-
-* "grünes" Handeln vorziehen: nachhaltig, fair, effizient (keine Politik)
+    * Wir sind uns für nichts zu schade 
+    * Bei Bedarf top-gestylt, pünktlich und verlässlich ("professionell")
+    * Kein Sexismus. Frauen sind bei uns als Profis und Laien, Kunden und Kollegen hoch geschätzt und willkommen
+    * 100% legal und 'feel-good'
+    * "grünes" Handeln vorziehen: nachhaltig, fair, effizient (keine Politik)
 
 -&gt; top-ausgebildet und vernetztet -&gt; flexibel im Workflow, treu bei den Werten -&gt; sozial, offen und diskrim. frei -&gt; erfahren und günstig (Marketing: siehe fllex. Tarfie am Anfang / bei geringer Auslastung)
 
@@ -19,63 +14,51 @@ Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, ..
 -&gt; Fünf Bereiche  / 2 Sparten:
 
 - Firmenfarben grün, blau, rosa/pink, Logo folgt
-
-- www.bnnm-pc.de | www.bnnm-mac.de | www.b-bn-it.de | www.b-bn-av.de, (b-bn-it.gmbh, b-bn.holding)
-
+- [www.bnnm-pc.de](www.bnnm-pc.de) | www.bnnm-mac.de | [www.b-bn-it.de](www.b-bn-it.de) | www.b-bn-av.de, (b-bn-it.gmbh, b-bn.holding)
 - IT-Consulting und Spezial-Hardware-Entwicklung und -Verkauf, PC / Mac - Verkauf, Services
 
 Start: 1. November 2014
 
 **Ziel: Gründung B-BN-IT GmbH **
 
-- Zweitsitz oder -Office / -Laden / in Berlin, vorerst 'Meetingraum, gepfl. Bureau' bei mir) 
-- mögl. BN verbundene  Mitstreiter suchen (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) mit Fähigkeiten, Wollen, Handeln oder Wissen. (Keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, Ausnahme Fascho (wenn Wohnsitz West)))
+    - Zweitsitz oder -Office / -Laden / in Berlin, vorerst 'Meetingraum, gepfl. Bureau' bei mir) 
+    - mögl. BN verbundene  Mitstreiter suchen (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) mit Fähigkeiten, Wollen, Handeln oder Wissen. (Keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, Ausnahme Fascho (wenn Wohnsitz West)))
 
-Mitstreiter / Staff / Gründungsmitglieder 
-
+###Mitstreiter / Staff / Gründungsmitglieder 
+-----------------------------------------
 Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (später? Security)
 
 - eigener neuer großer Schreibtisch, mit schnellem PC / Mac und Displays und Telefon
-
 - Schreibtisch ist 'Privatsphäre' / kein 'clean-desk'
-
 - Firmen-PC / -Mac und Smartphone
-
 - kleine Bibliothek, Bad/WC, Küche / Getränke, Sat-TV / Internet / Telefon
 
 - Firmen-VPN und -Server, Cloud (cloud.b-bn-it.de, www.b-bn-ux.de,  [später b-bn-it.gmbh] )
-
 - Grafikworkstation, Austellhardware, 'Werkstatt/Labor'
-
 - wöchentlich, gemeinsam 1-2x Reinigung, mitbringen v. Tieren ok
 
 - Hardware zu Händler-Einkaufspreisen und verrechenbar, teilweise günstiger
-
 - Spesenabrechnung, z.B. Privat-PKW
 - eigene Arbeit (Jobsuche, Intego/Sinaso/Digeti-Termine, eigene Projekte) willkommen
 - 24h Eintritt zum Bureau (Schlüssel), Vorerst Margarethenstr. 25 Sutterain, dxcl. meiner zwei Zimmer (privat)
     - Nichtraucherbureau, Rauchen auf der Terrasse oder vor der Tür oder bei mir (wenn offen)
     - Das Bureau muss zu jederzeit so aussehen, dass spontan Kunden vorbeikommen können (Termin)
-
 - Absprache, ob 4 oder 6 Präsenzstunden (2x 2 Std. plus Mittag oder frei Zeiteinteilung mit 1x Besprechung tgl.)
 
 - transparente Buchhaltung, Beteiligung am Gewinn, klare Strategie
 - (später: Möglichkeit Anteile zu kaufen oder Partner zu werden)
 - Making history, (später) Mögl. in Bad Nauheim oder Berlin zu arbeiten (je nach Projekt / Bereich)
 - Research & Development
-
 - Möglichkeit zum Ausgleich andere Tätigkeiten anzubieten und anzunehmen. Gerne im Team.
     - Beispiel Basti - jetzt zusagen
-
 - schicke Visitenkarte, kein Stress mit JC
 
         - kein Einsatz von Eigenkapital als Lohn (Ausnahme: Arbeitsgeräte), alles muss verdient werden
         - (später) Gehalt wird dann aus verschiedenen Quellen und Kunden zusammengesetzt 
-
         - wir rechnen nur Profi-Arbeitsstunden beim Kunden ab (kann != Zeitstunde sein
 
-ToDo aktuell
-
+###ToDo aktuell
+------
 - Arbeitsserver
     - Übungen, Infos, interne Kommunikation, Mail, Kontakt und off. Landingpage
 
@@ -113,7 +96,7 @@ ToDo aktuell
 
     - certified  apple handler?
 
-_(ToDo K.)_
+###_(ToDo K.)_
 
 - Kontakt JC / Sinalca
 - Certified Apple Reseller (doof)
@@ -142,7 +125,7 @@ _(ToDo K.)_
             - viel Rücksprache und Konsens, wenn zeilführend oder eigneverantworlich
             - Einweihungpartie und Kick-Off mit Marketingstart (ps. ausser Ausnahme sind wird modern: keine Kippen/Alk/Sexismus/erkältung) auf der Arbeit ("out")
 
-    - KEINE VERFICKTEN IDIOTEN MEHR, NUR KUMPELS AUF DISKUSSION UND KONSENSBASIS
+    KEINE VERFICKTEN IDIOTEN MEHR, NUR KUMPELS AUF DISKUSSION UND KONSENSBASIS
 
 - FÜR **ALLE PROJEKTE (+ KUNDENPROJEKTE + PARTNERPROJEKTE)** brauchen wir:
     - Develpmentumgebung inkl. git , server, dev-tools, software, rechnet, Abrechung, Accountmanagement
@@ -156,7 +139,7 @@ _(ToDo K.)_
 
 - Achtung Erwartungen / Nachteile / "Show-Stopper" / Veränderungsmöglichkeiten andere Seite
 
-Research & Development (Eigenentwicklung)
+###Research & Development (Eigenentwicklung)
 
 - Rasperry  NAS + mehr
 - Raspberry TV + AppleAir (+mehr) / WLAN
@@ -164,11 +147,10 @@ Research & Development (Eigenentwicklung)
 - Software:
     - Spider (Viele Komponenten, evtl. K nach 10. Ü.)
         - legal kritisch, kommt auf Umstände an
-
     - Amazonas OS-Render-Service (Geldmachine im kleinen Stil)
         - security-krisch
 
-HR / Networking / CRM / Aquise
+###HR / Networking / CRM / Aquise
 
 - wer macht mit ? wer hat Zertifikate?
 - Jobcenter Hilfe
@@ -181,21 +163,16 @@ HR / Networking / CRM / Aquise
 - CRM- System schnell installieren
 - Akten 
 
-Seite / WWW
+### Seite / WWW
 
 - Kundenlogin / Mitarbeiter-Login
-
 - News
-
 - Cloud
-
 - Anleitungen und Hardware
-
 - Angebote & Marketing
-
 - Beispielprojekte
 
-SPARTEN / ANGEBOT / SERVICES / R&D
+###SPARTEN / ANGEBOT / SERVICES / R&D
 
 **Bereiche**: PM erfahren / "zu allozieren":
 
@@ -204,16 +181,19 @@ SPARTEN / ANGEBOT / SERVICES / R&D
 - rosa/pink (Firma) (R&D, Frauen, Jobs, 'Schnack' / Termin, 
     - Ziele / Werte (modern nr, Verantwortung, unsere Arbeitsweise, soz. angbeot/ver.)
 
-**B-BN-UX**
+####**B-BN-UX**
 
 - Cloud, Hosting, Unix-Services
-
 - DNS und Domains
 
+####**B-BN-AV**
 ...
 
-############ EnC ##############
+<hr/>
 
-in der firma muss alles immer legal und sauber sein. keine Cracks, pornomengen, illegale softwarelager und dealerkonzatke. Alles ab jetzt encrypted - ich setz die Infrastruktur dafür auf . wenn du dabei sein willst sag bescheid.
+
+      Encr
+      
+     in der firma muss alles immer legal und sauber sein. keine Cracks, pornomengen, illegale softwarelager und dealerkonzatke. Alles ab jetzt encrypted - ich setz die Infrastruktur dafür auf . wenn du dabei sein willst sag bescheid.
 
 ##########################
