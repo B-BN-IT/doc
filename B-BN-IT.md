@@ -28,7 +28,7 @@ Start: 1. November 2014
 -----------------------------------------
 Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (später? Security)
 
-- eigener neuer großer Schreibtisch, mit schnellem PC / Mac und Displays und Telefon
+- eigener, neuer, großer Schreibtisch, mit schnellem PC / Mac und Displays und Telefon
 - Schreibtisch ist 'Privatsphäre' / kein 'clean-desk'
 - Firmen-PC / -Mac und Smartphone
 - kleine Bibliothek, Bad/WC, Küche / Getränke, Sat-TV / Internet / Telefon
@@ -46,11 +46,17 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
   - transparente Buchhaltung, Beteiligung am Gewinn, klare Strategie
   - (später: Möglichkeit Anteile zu kaufen oder Partner zu werden)
   - Making history, (später) Mögl. in Bad Nauheim oder Berlin zu arbeiten (je nach Projekt / Bereich)
-  - Zeugnisse, Zertifikate, Fortbildung, Praxis
+  - Zeugnis (schreib dir dein Z. selber oder ich helfe dir), 
+  - (später:) Zertifikate, Fortbildung, Praxis
 
 - Research & Development
+  - Brainwork, Disziplin und Effizienz, 
+  - hochqualifiziert, sauber und kann finanziell lohnen
 - Softwareentwicklung
-- Drohnwn: geil
+- Drohnen: geil
+- gute Hardware Retailen
+- Services anbieten und Resellen
+- Shop (Online / real? future?), Lager (Mini)
 - Möglichkeit zum Ausgleich andere Tätigkeiten anzubieten und anzunehmen. Gerne im Team.
     - Beispiel Basti - jetzt zusagen
 - schicke Visitenkarte, kein Stress mit JC
