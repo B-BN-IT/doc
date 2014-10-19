@@ -7,34 +7,38 @@ _Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, .._
     * 100% legal und 'feel-good'
     * "grünes" Handeln vorziehen: nachhaltig, fair, effizient (keine Politik)
 
+- Firmenfarben grün, blau, rosa/pink, Logo folgt
+- IT-Consulting und Spezial-Hardware-Entwicklung und -Verkauf, PC / Mac - Verkauf, Services, Coaching
+- [www.bnnm-pc.de](www.bnnm-pc.de) | www.bnnm-mac.de | [www.b-bn-it.de](www.b-bn-it.de) | www.b-bn-av.de, (b-bn-it.gmbh, b-bn.holding)
+
 -&gt; top-ausgebildet und vernetztet -&gt; flexibel im Workflow, treu bei den Werten -&gt; sozial, offen und diskrim. frei -&gt; erfahren und günstig (Marketing: siehe fllex. Tarfie am Anfang / bei geringer Auslastung)
 
 -&gt; Zwei Tarife: IT-Spezialist und (Dipl.-)Inf.
 
--&gt; Fünf Bereiche  / 2 Sparten (IT und AV):
+-&gt; Fünf Bereiche  / 2 Sparten (IT und AV): +retail?
 
-- Firmenfarben grün, blau, rosa/pink, Logo folgt
-- [www.bnnm-pc.de](www.bnnm-pc.de) | www.bnnm-mac.de | [www.b-bn-it.de](www.b-bn-it.de) | www.b-bn-av.de, (b-bn-it.gmbh, b-bn.holding)
-- IT-Consulting und Spezial-Hardware-Entwicklung und -Verkauf, PC / Mac - Verkauf, Services
 
 Start: 1. November 2014
 
 **Ziel: Gründung B-BN-IT GmbH **
 
-    - Zweitsitz oder -Office / -Laden / in Berlin, vorerst 'Meetingraum, gepfl. Bureau' bei mir) 
-    - mögl. BN verbundene  Mitstreiter suchen (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) mit Fähigkeiten, Wollen, Handeln oder Wissen. (Keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, Ausnahme Fascho (wenn Wohnsitz West)))
+    - Zweitsitz oder -Office / -Laden / in Berlin, 
+    	- vorerst 'Meetingraum, gepfl. Bureau' bei mir) 
+    - mögl. BN/IT verbundene  Mitstreiter suchen 
+    	- (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) mit Fähigkeiten, Wollen, Handeln oder Wissen. 
+    	- selbstv. keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, Ausnahme Fascho (wenn Wohnsitz West)
 
-###Mitstreiter / Staff / Gründungsmitglieder 
+###Crew / Mitstreiter / Staff / Gründungsmitglieder 
 -----------------------------------------
-Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (später? Security)
+Marcus Geller, IT-Spezialst, ()-Kaufmann, Systemadministrator, Kundenberater, (später? Security)
 
 - eigener, neuer, großer Schreibtisch, mit schnellem PC / Mac und Displays und Telefon
-- Schreibtisch ist 'Privatsphäre' / kein 'clean-desk'
+  - Schreibtisch ist 'Privatsphäre' / kein 'clean-desk'
 - Firmen-PC / -Mac und Smartphone
-- kleine Bibliothek, Bad/WC, Küche / Getränke, Sat-TV / Internet / Telefon
+- kleine Fachbibliothek, Bad/WC, Küche / Getränke, Sat-TV / Internet / Telefon
 - Firmen-VPN und -Server, Cloud (cloud.b-bn-it.de, www.b-bn-ux.de,  [später b-bn-it.gmbh] )
-- Grafikworkstation, Austellhardware, 'Werkstatt/Labor'
-- wöchentlich, gemeinsam 1-2x Reinigung, mitbringen v. Tieren ok
+- Grafikworkstation von mir, Austellhardware, 'Werkstatt/Labor'
+- wöchentlich, gemeinsam 1-2x Reinigung, Mitbringen v. Tieren ok
 - Hardware zu Händler-Einkaufspreisen und verrechenbar, teilweise günstiger
 - Spesenabrechnung, z.B. Privat-PKW
 - eigene Arbeit (Jobsuche, Intego/Sinaso/Digeti-Termine, eigene Projekte) willkommen
@@ -50,15 +54,21 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
   - (später:) Zertifikate, Fortbildung, Praxis
 
 - Research & Development
-  - Brainwork, Disziplin und Effizienz, 
-  - hochqualifiziert, sauber und kann finanziell lohnen
+  - Brainwork, Disziplin und Effizienz, zielorientiert, keiner hilft
+  - hochqualifiziert, sauber, kreativ, kommunikativ
+  - bockt
+  - kann finanziell lohnen
+
 - Softwareentwicklung
+  - ..
 - Drohnen: geil
 - gute Hardware Retailen
 - Services anbieten und Resellen
 - Shop (Online / real? future?), Lager (Mini)
+
 - Möglichkeit zum Ausgleich andere Tätigkeiten anzubieten und anzunehmen. Gerne im Team.
     - Beispiel Basti - jetzt zusagen
+    
 - schicke Visitenkarte, kein Stress mit JC
 
         - kein Einsatz von Eigenkapital als Lohn (Ausnahme: Arbeitsgeräte), alles muss verdient werden
@@ -175,7 +185,7 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
 
 ### Seite / WWW
 
-- Kundenlogin / Mitarbeiter-Login
+- Kundenlogin / Mitarbeiter-Login (gute DJANGO Ue, sonst ich)
 - News
 - Cloud
 - Anleitungen und Hardware
@@ -184,20 +194,44 @@ Marcus Geller, (?)-Kaufmann, IT-Spezialst, Systemadministrator, Kundenberater, (
 
 ###SPARTEN / ANGEBOT / SERVICES / R&D
 
-**Bereiche**: PM erfahren / "zu allozieren":
+**Bereiche**: 
+PM erfahren / "zu allozieren":
 
 - grün dunkel/hell (Fachmann / IT-Spez.)
 - blau (dunkel /hell) (Dipl.-Inf.)
-- rosa/pink (Firma) (R&D, Frauen, Jobs, 'Schnack' / Termin, 
-    - Ziele / Werte (modern nr, Verantwortung, unsere Arbeitsweise, soz. angbeot/ver.)
+- rosa/pink (Firma) (R&D, Equalpay etc, Jobs, 'Schnack' / Termin, 
+    - Ziele / Werte (modern nr, Verantwortung / Arbeitsweise, soz. angbeot/ver./gesund.)
+
+####**B-BN-IT**
+Dachfirma, IT-Consulting & -Services, 
+- Web- Mobile- und Desktopentwicklung, 
+- Auftragsshops, eigener (eBay-) Shop mit geilem Equipment
+- Auftragsapps und kleine Web-Seiten / Blogs
+- Softwareentwicklung professionell 1-...? Personenteams
+- ..
 
 ####**B-BN-UX**
-
+Hosting, Reseller, Services
 - Cloud, Hosting, Unix-Services
 - DNS und Domains
+- Kundenservice Hosting und Backup und Cloud-Produkte
+- ..
 
 ####**B-BN-AV**
-...
+B-BN AudioVideo Aviation
+- Crazy Drohnen Kram News, Retail, Demo & Kurse, Service
+- FPV legale Situation klären,sonst ausgliedern
+- Mini-PCs, WLAN-Cams, iPhone-Tuning
+- ..
+
+####**BNNM-PC / BNNM-MAC**
+Spezial-Hardware-Entwwicklung und Retail, Mac-Verkauf
+- nur gute angepasste und wartbare Qualihardware 
+- Hardware Tuner/Modder/Retailer
+  - Beispiel Rasperry / Linksys modden.. Ideen?
+- Authorized Apple Reseller (Markt gut hier glaube ich)
+  - Service dazu (== keine Freizeit mehr zum Geldausgeben ;)
+  - ...
 
 <hr/>
 
