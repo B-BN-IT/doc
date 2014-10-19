@@ -35,9 +35,11 @@ von einem/-er **Mitarbeiter/-in** erwarte ich
 
 * Wissen, Können, Wollen, Handeln (Praktikant Abzüge bei Wi. und K.)
 * Grundsätze einverstanden
-*[Positive, professionell innovative Grundhaltung (Grundsätze) ]
+* Grundlegende Offiveskills, 
+  * Telefonieren, Mail- Web und SMS-Korrespondez, Word/Excel/Web
+  *[Positive, professionell innovative Grundhaltung (Grundsätze) ]
   * konzentriertes, zielorientertes und zunehmend selbstständige Arbeit 
-    * (Prakt. Abz. selbst.))
+    * (Prakt. Abz. bei allem auser Wollen und Handeln))
 * Zertifikate, Diplome, Titel nur Bonus zum Abrechnen für einen selbst
   * http://www.fernuni-hagen.de/mathinf/
 
