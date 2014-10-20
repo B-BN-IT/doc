@@ -15,11 +15,11 @@ _Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, .._
 
 -&gt; Zwei Tarife: IT-Spezialist und (Dipl.-)Inf.
 
--&gt; Fünf Bereiche  / 2 Sparten (IT und AV): +retail?
+-&gt; "Fünf Bereiche  / 2 Sparten" (IT und AV): +retail?
 
+* Sub. AV: _**AudioVideo Aviation**_
 
-Start: 1. November 2014
-
+Start: 1. November 2014 (15.11. ? 1.12. ? warum?)
 **Ziel: Gründung B-BN-IT GmbH **
 
     - Zweitsitz oder -Office / -Laden / in Berlin, 
