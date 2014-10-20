@@ -20,17 +20,22 @@ _Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, .._
 * Sub. AV: _**AudioVideo Aviation**_
 
 Start: 1. November 2014 (15.11. ? 1.12. ? warum?)
+
 **Ziel: Gründung B-BN-IT GmbH **
 
     - Zweitsitz oder -Office / -Laden / in Berlin, 
     	- vorerst 'Meetingraum, gepfl. Bureau' bei mir) 
     - mögl. BN/IT verbundene  Mitstreiter suchen 
-    	- (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) mit Fähigkeiten, Wollen, Handeln oder Wissen. 
-    	- selbstv. keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, Ausnahme Fascho (wenn Wohnsitz West)
+    	- (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) 
+    	  mit Fähigkeiten, Wollen, Handeln oder Wissen. 
+    	- selbstv. keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, 
+    	  Ausnahme Fascho (wenn Wohnsitz West)
 
 ###Crew / Mitstreiter / Staff / Gründungsmitglieder 
 -----------------------------------------
-Marcus Geller, IT-Spezialst, ()-Kaufmann, Systemadministrator, Kundenberater, (später? Security)
+Marcus Geller, IT-Spezialst, ()-Kaufmann, 
+               Systemadministrator, Kundenberater, 
+               (später? Securityberater, Softwareentwickler)
 
 - eigener, neuer, großer Schreibtisch, mit schnellem PC / Mac und Displays und Telefon
   - Schreibtisch ist 'Privatsphäre' / kein 'clean-desk'
@@ -45,6 +50,7 @@ Marcus Geller, IT-Spezialst, ()-Kaufmann, Systemadministrator, Kundenberater, (s
 - 24h Eintritt zum Bureau (Schlüssel), Vorerst Margarethenstr. 25 Sutterain, dxcl. meiner zwei Zimmer (privat)
     - Nichtraucherbureau, Rauchen auf der Terrasse oder vor der Tür oder bei mir (wenn offen)
     - Das Bureau muss zu jederzeit so aussehen, dass spontan Kunden vorbeikommen können (Termin)
+
 - Absprache, ob 4 oder 6 Präsenzstunden (2x 2 Std. plus Mittag oder frei Zeiteinteilung mit 1x Besprechung tgl.)
 
   - transparente Buchhaltung, Beteiligung am Gewinn, klare Strategie
@@ -53,15 +59,16 @@ Marcus Geller, IT-Spezialst, ()-Kaufmann, Systemadministrator, Kundenberater, (s
   - Zeugnis (schreib dir dein Z. selber oder ich helfe dir), 
   - (später:) Zertifikate, Fortbildung, Praxis
 
-- Research & Development
+- **Research & Development**
   - Brainwork, Disziplin und Effizienz, zielorientiert, keiner hilft
   - hochqualifiziert, sauber, kreativ, kommunikativ
   - bockt
   - kann finanziell lohnen
 
-- Softwareentwicklung
+- **Softwareentwicklung**
   - ..
-- Drohnen: geil
+  - ..
+- **Drohnen**: geil
 - gute Hardware Retailen
 - Services anbieten und Resellen
 - Shop (Online / real? future?), Lager (Mini)
@@ -69,11 +76,12 @@ Marcus Geller, IT-Spezialst, ()-Kaufmann, Systemadministrator, Kundenberater, (s
 - Möglichkeit zum Ausgleich andere Tätigkeiten anzubieten und anzunehmen. Gerne im Team.
     - Beispiel Basti - jetzt zusagen
     
-- schicke Visitenkarte, kein Stress mit JC
+- schicke **Visitenkarte**, kein Stress mit JC
 
         - kein Einsatz von Eigenkapital als Lohn (Ausnahme: Arbeitsgeräte), alles muss verdient werden
         - (später) Gehalt wird dann aus verschiedenen Quellen und Kunden zusammengesetzt 
         - wir rechnen nur Profi-Arbeitsstunden beim Kunden ab (kann != Zeitstunde sein
+
 
 ###ToDo aktuell
 ------
