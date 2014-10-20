@@ -9,6 +9,7 @@ _Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, .._
 
 - Firmenfarben grün, blau, rosa/pink, Logo folgt
 - IT-Consulting und Spezial-Hardware-Entwicklung und -Verkauf, PC / Mac - Verkauf, Services, Coaching
+  - Apple Athorized Reseller / Retailer	
 - [www.bnnm-pc.de](www.bnnm-pc.de) | www.bnnm-mac.de | [www.b-bn-it.de](www.b-bn-it.de) | www.b-bn-av.de, (b-bn-it.gmbh, b-bn.holding)
 
 -&gt; top-ausgebildet und vernetztet -&gt; flexibel im Workflow, treu bei den Werten -&gt; sozial, offen und diskrim. frei -&gt; erfahren und günstig (Marketing: siehe fllex. Tarfie am Anfang / bei geringer Auslastung)
@@ -33,8 +34,8 @@ Start: 1. November 2014 (15.11. ? 1.12. ? warum?)
 
 ###Crew / Mitstreiter / Staff / Gründungsmitglieder 
 -----------------------------------------
-Marcus Geller, IT-Spezialst, ()-Kaufmann, 
-               Systemadministrator, Kundenberater, 
+Marcus Geller, IT-Spezialst, ()-Kaufmann | 
+               Systemadministrator, Kundenberater | 
                (später? Securityberater, Softwareentwickler)
 
 - eigener, neuer, großer Schreibtisch, mit schnellem PC / Mac und Displays und Telefon
@@ -77,6 +78,7 @@ Marcus Geller, IT-Spezialst, ()-Kaufmann,
     - Beispiel Basti - jetzt zusagen
     
 - schicke **Visitenkarte**, kein Stress mit JC
+- Weiterbildung a la Apple Certified, oder Zend Certified, oder (wenn Bock) M$ Zert.
 
         - kein Einsatz von Eigenkapital als Lohn (Ausnahme: Arbeitsgeräte), alles muss verdient werden
         - (später) Gehalt wird dann aus verschiedenen Quellen und Kunden zusammengesetzt 
