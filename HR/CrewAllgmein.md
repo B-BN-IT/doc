@@ -9,7 +9,7 @@ _**GF**_ heisst für mich
   * Investitionen, Eigenkapital
   * gegenüber dem Kunden
   * gegenüber jedem Mitstreiter
-  *"immer" erreichbar sein, 
+  * "immer" erreichbar sein, 
   * schnell auf Post und Mail und Messages, ... reagieren
   * auf ne gemeinsame basis achten , regeln miteinander finden
   * Geld eintreiben und pünktlich weiterleiten
@@ -27,8 +27,9 @@ _**GF**_ heisst für mich
 * Marktbeobachtung und Auswertung,  gemeinsamer Aufbau Wissen-DB 
   * 'Wissen-DB konsequent von Anfang füllen und gut konfigurieren
     * Security
-* Kostenrechnung (Kann jemand BuFü? sonst auch ich - gerne), 
- *  'Controlling', Investition und Finanzierung
+* Kostenrechnung 
+ * (Kann jemand FiBu? sonst auch ich - gerne), 
+ * 'Controlling', Investition und Finanzierung
  * Bank und Investor auftreiben und überzeugen und Kontakt pflegen
 
 von einem/-er **Mitarbeiter/-in** erwarte ich
@@ -38,8 +39,8 @@ von einem/-er **Mitarbeiter/-in** erwarte ich
 * Grundlegende Offiveskills, 
   * Telefonieren, Mail- Web und SMS-Korrespondez, Word/Excel/Web
   *[Positive, professionell innovative Grundhaltung (Grundsätze) ]
-  * konzentriertes, zielorientertes und zunehmend selbstständige Arbeit 
-    * (Prakt. Abz. bei allem auser Wollen und Handeln))
+  * konzentriertes, zielorientertes und zunehmend selbstständiges Arbeiten
+    * (Prakt. Abz. bei allem auser Wollen und Handeln, s.o.)
 * Zertifikate, Diplome, Titel nur Bonus zum Abrechnen für einen selbst
   * http://www.fernuni-hagen.de/mathinf/
 
