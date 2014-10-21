@@ -8,35 +8,32 @@ _Firmen- und Personennetzwerk Berlin-Bad Nauheim, Freelance Agentur, .._
     * "grünes" Handeln vorziehen: nachhaltig, fair, effizient (keine Politik)
 
 - Firmenfarben grün, blau, rosa/pink, Logo folgt
-- IT-Consulting und Spezial-Hardware-Entwicklung und -Verkauf, PC / Mac - Verkauf, Services, Coaching
-  - Apple Athorized Reseller / Retailer	
-- [www.bnnm-pc.de](www.bnnm-pc.de) | www.bnnm-mac.de | [www.b-bn-it.de](www.b-bn-it.de) | www.b-bn-av.de, (b-bn-it.gmbh, b-bn.holding)
+- IT-Consulting und Spezial-Hardware-Entwicklung und -Verkauf, 
+- Mac (cert.) - Retailer und Vertrieb von intelligenten PC-Eigenkonstruktionen, Services, Coaching, AV-Sparte (AudioVideo Aviation)
+- [www.bnnm-pc.de](www.bnnm-pc.de) | [www.bnnm-pc.de](www.bnnm-mac.de) | [www.b-bn-it.de](www.b-bn-it.de) | [www.b-bn-av.de](www.b-bn-av.de) 
+  [www.b-bn-it.gmbh, www.b-bn.holding später]
 
 -&gt; top-ausgebildet und vernetztet -&gt; flexibel im Workflow, treu bei den Werten -&gt; sozial, offen und diskrim. frei -&gt; erfahren und günstig (Marketing: siehe fllex. Tarfie am Anfang / bei geringer Auslastung)
 
 -&gt; Zwei Tarife: IT-Spezialist und (Dipl.-)Inf.
-
--&gt; "Fünf Bereiche  / 2 Sparten" (IT und AV): +retail?
+-&gt; Hell/Dunkel für Erfahren/machen wir im Schlaf und dunkel für "tiefes Wassen"
+    -&gt; Möglichkeit KnowHow und Leute schnell zu aquirieren ausloten
+-&gt; Zwei Sparten (IT und AV): Beides mit Retail, R&D, Kundenaufträge, Beratung, Service, Training (IT-Angbot sehr breit machen ? Oder schmal was man gut kann? Markt..)
 
 * Sub. AV: _**AudioVideo Aviation**_
 
 Start: 1. November 2014 (15.11. ? 1.12. ? warum?)
-
 **Ziel: Gründung B-BN-IT GmbH **
 
     - Zweitsitz oder -Office / -Laden / in Berlin, 
     	- vorerst 'Meetingraum, gepfl. Bureau' bei mir) 
     - mögl. BN/IT verbundene  Mitstreiter suchen 
-    	- (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) 
-    	  mit Fähigkeiten, Wollen, Handeln oder Wissen. 
-    	- selbstv. keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, 
-    	  Ausnahme Fascho (wenn Wohnsitz West)
+    	- (mir fallen spontan 5 ein. Kost  ja nix und tut nicht weh) mit Fähigkeiten, Wollen, Handeln oder Wissen. 
+    	- selbstv. keine Neger, Studenten, Arbeitslosen, Sozis, Kommu- oder Anarchisten, Ausnahme Fascho (wenn Wohnsitz West)
 
 ###Crew / Mitstreiter / Staff / Gründungsmitglieder 
 -----------------------------------------
-Marcus Geller, IT-Spezialst, ()-Kaufmann | 
-               Systemadministrator, Kundenberater | 
-               (später? Securityberater, Softwareentwickler)
+Marcus Geller, IT-Spezialst, ()-Kaufmann, Systemadministrator, Kundenberater, (später? Security)
 
 - eigener, neuer, großer Schreibtisch, mit schnellem PC / Mac und Displays und Telefon
   - Schreibtisch ist 'Privatsphäre' / kein 'clean-desk'
@@ -51,7 +48,6 @@ Marcus Geller, IT-Spezialst, ()-Kaufmann |
 - 24h Eintritt zum Bureau (Schlüssel), Vorerst Margarethenstr. 25 Sutterain, dxcl. meiner zwei Zimmer (privat)
     - Nichtraucherbureau, Rauchen auf der Terrasse oder vor der Tür oder bei mir (wenn offen)
     - Das Bureau muss zu jederzeit so aussehen, dass spontan Kunden vorbeikommen können (Termin)
-
 - Absprache, ob 4 oder 6 Präsenzstunden (2x 2 Std. plus Mittag oder frei Zeiteinteilung mit 1x Besprechung tgl.)
 
   - transparente Buchhaltung, Beteiligung am Gewinn, klare Strategie
@@ -60,16 +56,14 @@ Marcus Geller, IT-Spezialst, ()-Kaufmann |
   - Zeugnis (schreib dir dein Z. selber oder ich helfe dir), 
   - (später:) Zertifikate, Fortbildung, Praxis
 
-- **Research & Development**
+- Research & Development
   - Brainwork, Disziplin und Effizienz, zielorientiert, keiner hilft
   - hochqualifiziert, sauber, kreativ, kommunikativ
-  - bockt
-  - kann finanziell lohnen
+  - bockt, kann finanziell lohnen, angesehen und Eigenverwircklicung 
 
-- **Softwareentwicklung**
+- Softwareentwicklung
   - ..
-  - ..
-- **Drohnen**: geil
+- Drohnen: geil
 - gute Hardware Retailen
 - Services anbieten und Resellen
 - Shop (Online / real? future?), Lager (Mini)
@@ -77,13 +71,11 @@ Marcus Geller, IT-Spezialst, ()-Kaufmann |
 - Möglichkeit zum Ausgleich andere Tätigkeiten anzubieten und anzunehmen. Gerne im Team.
     - Beispiel Basti - jetzt zusagen
     
-- schicke **Visitenkarte**, kein Stress mit JC
-- Weiterbildung a la Apple Certified, oder Zend Certified, oder (wenn Bock) M$ Zert.
+- schicke Visitenkarte, kein Stress mit JC
 
         - kein Einsatz von Eigenkapital als Lohn (Ausnahme: Arbeitsgeräte), alles muss verdient werden
         - (später) Gehalt wird dann aus verschiedenen Quellen und Kunden zusammengesetzt 
         - wir rechnen nur Profi-Arbeitsstunden beim Kunden ab (kann != Zeitstunde sein
-
 
 ###ToDo aktuell
 ------
@@ -129,7 +121,8 @@ Marcus Geller, IT-Spezialst, ()-Kaufmann |
 ###_(ToDo K.)_
 
 - Kontakt JC / Sinalca
-- Certified Apple Reseller (doof)
+- Certified Apple Reseller (doof), 
+    - Bock drauf? mal recherchieren was kost, was is, was bringt
 - Schauen nach HW / Garage E8 mal zum  Basteln möglich?
     - Aufkleber möglich, wenn gew.
     - Telefone / Kabel / Handys
