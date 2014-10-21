@@ -1,7 +1,7 @@
 EINKAUF
 
 	•	Ikea
-		◦	1x Bürostuhl standard ergo
+		◦	1x Bürostuhl standard ergo /K-Style Stuhl. Vorrätig? klären bis ende woche
 		◦	Schreibtisch , exakt wie meiner
 		◦	Schreibtischlampe
 		◦	Zimmerpflanze ?
