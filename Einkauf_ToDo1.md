@@ -13,7 +13,7 @@ EINKAUF
 		◦	Stifte, Blöcke
 	•	Küche/Bad Renovierung:
 	•	Schild aussen, (Leucht)schild innen
-	•	Briefkasten, Klingel
+	•	Briefkasten, Klingel (Kommentar K.: "Ja, aber dann musst Du einen Briefkasten kaufen")
 	•	Visitenkarten
 	•	PC / Mac Hardware:
 		◦	vorher Gewerbeschein, Altern.-WAVE-B2B Kunde werden
