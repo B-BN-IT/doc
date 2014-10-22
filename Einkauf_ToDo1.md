@@ -1,7 +1,7 @@
 EINKAUF
 
 	•	Ikea
-		◦	1x Bürostuhl standard ergo
+		◦	1x Bürostuhl standard ergo /K-Style Stuhl. Vorrätig? klären bis ende woche
 		◦	Schreibtisch , exakt wie meiner
 		◦	Schreibtischlampe
 		◦	Zimmerpflanze ?
@@ -17,13 +17,14 @@ EINKAUF
 	•	Visitenkarten
 	•	PC / Mac Hardware:
 		◦	vorher Gewerbeschein, Altern.-WAVE-B2B Kunde werden
-		◦	leine weiteren PCs nötig, Server wird aus alt-Material gebaut
+		◦	keine weiteren PCs nötig, Server wird aus alt-Material gebaut
 		◦	evtl (2015) Prototyp leise geile Grafikworkstation bauen (Finanzierung?)
 		◦	Displays (jetzt):
 			▸	1x Ilyama Syncmaster PLE (~140,- EUR), 
 			▸	2x "best for lowest price", K. fragen, wenn dabei
 		◦	Harddisk, SSD
 		◦	Maus, Tastatur für mich, K. fragen ob was er bracuht ,wenn dabei. Quali only
+			evtl. ab 3. Woche MBP Retine von WAVE, Verfügbarkeit vorzeitg prüfen
 	◦	Telefone (alte reaktivieren, ISDN port an meinem Router vorhanden):
 		▸	Tischfestnetz Kearmitt alte Geräte fragen
 		▸	alte Handys mit prepaid ausstatten
