@@ -1,6 +1,6 @@
 EINKAUF
 
-	•	Ikea (Vorschlag K. "Fahr mit Mutti")
+	•	Ikea (Vorschlag K. "Mutti" oder demnächst mit Auto v. seinem dad)
 		◦	1x Bürostuhl standard ergo /K-Style Stuhl. Vorrätig? klären bis ende woche
 		◦	Schreibtisch , exakt wie meiner
 		◦	Schreibtischlampe
