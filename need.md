@@ -11,6 +11,7 @@
 
 * Mail effizient mit Mailclient und Filtern
 * ux/terminal, ux/hosting, 
+* alternative: Typo und blogs
 
 ### BOck auf ?
 
