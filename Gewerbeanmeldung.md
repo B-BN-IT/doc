@@ -1,6 +1,9 @@
 * http://www.hessenfinder.de/portal/?SOURCE=PstList&POSTALCODE=&PSTID=8957937
 * https://eah.hessen.de/ihr-weg-die-selbst%C3%A4ndigkeit
 * http://www.wfg-wetterau.de/service-handelundgewerbe.html
+* http://de.wikipedia.org/wiki/Gesellschaftsvertrag
+ * http://www.ihk-berlin.de/linkableblob/bihk24/recht_und_steuern/downloads/816284/.26./data/Merkblatt_Muster_Gesellschaftsvertrag_GmbH-data.pdf
+
 
 ### GEWERBEANMELDUNG
 
@@ -72,3 +75,39 @@ Sofern eine – formlos zu beantragende – Empfangsbescheinigung ausgestellt we
 #### ANTRÄGE / FORMULARE
 
 Im Gewerbeanzeigeverfahren sind die nach § 14 Gewerbeordnung vorgeschriebenen Anzeigevordrucke zu verwenden.
+-----------------------------
+### GEWERBE UND WIRTSCHAFT
+
+Als Händler und Gewerbetreibender müssen Sie zahlreiche Vorschriften beachten. Welche Bedingungen gelten für die Erteilung einer Gaststättenerlaubnis? Welche Umweltauflagen müssen im Einzelfall beachtet werden? Wie beantragt man einen Schwerlasttransport? Das folgende Kapitel verschafft Ihnen einen ersten Überblick und nennt kompetente Ansprechpartner.
+
+- [Gewerbe einschließlich Gaststätten](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961023)
+- [Umwelt](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961042)
+- [Transport/Logistik](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961045)
+- [Landwirtschaft/Veterinärwesen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8965621)
+- [Steuern](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961055)
+- [Bauwesen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961058)
+- [Vorschriften](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961061)
+- [Vermögensrecht](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8957831)
+- [Wirtschaftsförderung](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8957829)
+- [Veranstaltungen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=9712068)
+- [Sachverständige](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=9722832)
+- [Freie Berufe](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=9903296)
+- [Genehmigungen/Bescheinigungen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=10136943)
+- [Versicherungs-und Finanzdienstleistungen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=10606859)
+- 
+------------------
+
+Handelsregister und Gewerbeanmeldungen
+Drucken
+Hier finden Sie die Kontaktdaten zu den zuständigen Amtsgerichten. 
+Die Gewerbemeldestellen der Kommunen befinden sich normalerweise in den Rathäusern bzw. Dienstleistungszentren der Kommunen.
+
+Amtsgericht Friedberg
+zuständig für alle Wetterauer Städte und Gemeinden außer Bad-Vilbel und Karben 
+Homburger Straße 18 
+61169 Friedberg 
+Tel.: 06031-603-0 
+Fax: 06031-603-157 
+Internet: Homepage 
+Allgemeine Sprechzeiten: Mo-Fr. 8.30 Uhr - 12.00 Uhr 
+Durchwahlnummern: siehe Link
