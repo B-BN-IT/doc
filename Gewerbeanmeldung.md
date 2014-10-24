@@ -3,7 +3,8 @@
 * http://www.wfg-wetterau.de/service-handelundgewerbe.html
 * http://de.wikipedia.org/wiki/Gesellschaftsvertrag
  * http://www.ihk-berlin.de/linkableblob/bihk24/recht_und_steuern/downloads/816284/.26./data/Merkblatt_Muster_Gesellschaftsvertrag_GmbH-data.pdf
-* 
+
+
 ### GEWERBEANMELDUNG
 
 #### LEISTUNGSBESCHREIBUNG
