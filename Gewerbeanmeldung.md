@@ -72,3 +72,26 @@ Sofern eine – formlos zu beantragende – Empfangsbescheinigung ausgestellt we
 #### ANTRÄGE / FORMULARE
 
 Im Gewerbeanzeigeverfahren sind die nach § 14 Gewerbeordnung vorgeschriebenen Anzeigevordrucke zu verwenden.
+
+
+-----------------------
+
+
+### GEWERBE UND WIRTSCHAFT
+
+Als Händler und Gewerbetreibender müssen Sie zahlreiche Vorschriften beachten. Welche Bedingungen gelten für die Erteilung einer Gaststättenerlaubnis? Welche Umweltauflagen müssen im Einzelfall beachtet werden? Wie beantragt man einen Schwerlasttransport? Das folgende Kapitel verschafft Ihnen einen ersten Überblick und nennt kompetente Ansprechpartner.
+
+- [Gewerbe einschließlich Gaststätten](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961023)
+- [Umwelt](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961042)
+- [Transport/Logistik](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961045)
+- [Landwirtschaft/Veterinärwesen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8965621)
+- [Steuern](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961055)
+- [Bauwesen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961058)
+- [Vorschriften](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8961061)
+- [Vermögensrecht](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8957831)
+- [Wirtschaftsförderung](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=8957829)
+- [Veranstaltungen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=9712068)
+- [Sachverständige](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=9722832)
+- [Freie Berufe](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=9903296)
+- [Genehmigungen/Bescheinigungen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=10136943)
+- [Versicherungs-und Finanzdienstleistungen](http://www.hessenfinder.de/portal/?COMMONSEARCHTEXT=IT-Consulting&BER=343759638&SEARCHTYPE=PST&SOURCE=PstCategoryView&AREAID=8955381&PSTCATID=10606859)
