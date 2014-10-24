@@ -1,6 +1,6 @@
 
-## Need / Bräuchte neben ...
-
+### Need / Bräuchte neben ...
+<br/>
 <pre><code>* Fahrer, Auto (Mutti? Haftung klären)
 * Renovierungsberatung Küche und Bad
   * Was will Mutti ?
@@ -9,7 +9,8 @@
     * Woanders arbeiten an den Tagen?
     * Was anderes machen?</code></pre>
 
-## Jobs
+### Jobs
+
 * Typo3 Site oder **gerne keystone.js** o.ä. 
  * Vorschlag..? kein Joomla o.ä. Schrott
 * 3D Renderings 
@@ -19,14 +20,14 @@
 * Wissen-DB diskutieren, aufbauen, backup und **füllen** z.B.
  * Übersicht Quadrocoptermarkt lokal / Internet, Szene, Blogs, geile Videos etc.
 
-## Skills
-### Office
-* Mail effizient (während projektzeit)
- * Mailclient und Multi-Accounts
- * IMAP, Filtern und Feeds, Flags wie Importance
- * Kontaktmanagement (später Firma: CRM)
+### Skills - Office
 
-### IT
+ * Mail effizient (während projektzeit)
+  * Mailclient und Multi-Accounts
+  * IMAP, Filtern und Feeds, Flags wie Importance
+  * Kontaktmanagement (später Firma: CRM)
+
+### Skills - IT
 * ux/hosting, 
  * Ajenti: Geil... Powercontrol.. selbst coach oder crashkurs wenn bock drauf?
 * alternative: Typo und Blogs und ausgewählte GitHub-Projekte 
@@ -35,8 +36,16 @@
 ### AV / Retail
 * Markt
 
+<hr/>
 
-#### Bock auf.. ?
+**Bock auf.. ?**
 
-* Server-Admin per Ajenti / eigener Rootserver ohne meinen Zugang
+<pre><code>* Server-Admin per Ajenti / eigener Rootserver ohne meinen Zugang
 * scraping basics nach super-basics-ue
+* Crashkurse (morgens/vormittags oder abends):
+  * PGP
+  * git, github
+  * Python
+  * Programmmieren allgemein
+  * Was ist im Unterschied dazu Informatik
+</code></pre>
