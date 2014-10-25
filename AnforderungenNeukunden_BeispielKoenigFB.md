@@ -1,9 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
 <html>
     <head>
         <title></title>
     </head>
     <body>
+    <p>http://ecommerce.koenig-kg.com/user_newUser.aspx</p>
         <p>
             Neukunden Anmeldung für Neukunden Wir freuen uns über Ihr Interesse an unserem Lieferprogramm. Für die Vergabe einer Kundennummer benötigen wir von Ihnen die folgenden Daten: Wir bitten Sie wenn möglich, alle Felder vollständig auszufüllen. Wir senden Ihnen dann umgehend Ihre Kundennummer und das Passwort zu. Die Daten in diesem Formular werden von uns selbstverständlich streng vertraulich behandelt. ------------------
         </p>
