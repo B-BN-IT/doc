@@ -11,8 +11,6 @@ Die Daten in diesem Formular werden von uns selbstverständlich streng vertrauli
 
 ------------------
 
-
-<html>
 <h2 class="art-postheader">    Neukunden
    </h2>
 
@@ -307,4 +305,4 @@ Die Daten in diesem Formular werden von uns selbstverständlich streng vertrauli
     	<span class="art-button-r"> </span>
     	    <a id="ctl00_SheetContentPlaceHolder_LB_add_user" class="art-button" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SheetContentPlaceHolder$LB_add_user&quot;, &quot;&quot;, true, &quot;&quot;, &quot;shop_datasend.aspx&quot;, false, true))">Die Daten absenden</a></span></div>
     	    
-    	    </html>
+    
